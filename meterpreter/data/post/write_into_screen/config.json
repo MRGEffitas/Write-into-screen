@@ -1,0 +1,208 @@
+﻿[
+	{
+        "sleep": "5000"
+    },
+	{
+        "key_combo2": [
+            {
+                "name": "LWIN"
+            }   ,
+			{
+                "name": "VK_R"
+            } 
+		]
+    },
+    
+    {
+        "sleep": "1000"
+    },
+    {
+        "text_type": "winword"
+    },
+    {
+        "sleep": "4000"
+    },
+		
+    {
+        "key_combo2": [
+            {
+                "name": "LCONTROL"
+            },
+            {
+                "name": "VK_N"
+            }
+        ]
+    },
+	{
+        "sleep": "4000"
+    },
+		
+    { "text_type": "red elephant"
+    },
+		{
+        "sleep": "2000"
+    },
+	    {
+        "key_combo2": [
+            {
+                "name": "LCONTROL"
+            },
+            {
+                "name": "VK_A"
+            }
+        ]
+    },
+			{
+        "sleep": "2000"
+    },
+	    {
+        "key_combo2": [
+            {
+                "name": "LMENU"
+            },
+            {
+                "name": "VK_H"
+            }
+        ]
+    },
+			{
+        "sleep": "2000"
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_F"
+            }
+        ]
+
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_S"
+            }
+        ]
+
+    },
+
+				{
+        "sleep": "2000"
+    },
+	    { "text_type": "45"
+    },
+				{
+        "sleep": "2000"
+    },
+	    {
+        "key_combo2": [
+            {
+                "name": "LMENU"
+            },
+            {
+                "name": "VK_H"
+            }
+        ]
+    },
+			{
+        "sleep": "2000"
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_F"
+            }
+        ]
+
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_F"
+            }
+        ]
+
+    },
+				{
+        "sleep": "2000"
+    },
+	    { "text_type": "comic"
+    },
+		    {
+        "key_combo2": [
+            {
+                "name": "LMENU"
+            },
+            {
+                "name": "VK_H"
+            }
+        ]
+    },
+			{
+        "sleep": "2000"
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_F"
+            }
+        ]
+
+    },
+	    {         "key_combo1": [
+            {
+                "name": "VK_C"
+            }
+        ]
+
+    },
+				{
+        "sleep": "2000"
+    },
+		    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+			    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+			    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+			    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+			    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+			    {
+        "key_combo1": [
+            {
+                "name": "RETURN"
+            }
+        ]
+    },
+				    {
+        "key_combo1": [
+            {
+                "name": "DOWN"
+            }
+        ]
+    },
+	    {
+        "text_type": "Wow, much hacking, such amazed!"
+    }
+]
